@@ -1,0 +1,10 @@
+com\example\notesservice\dto\NotesExceptionResponse.class
+com\example\notesservice\NotesserviceApplication.class
+com\example\notesservice\utils\NotesUtilities.class
+com\example\notesservice\dto\NotesDto.class
+com\example\notesservice\repo\NoteRepository.class
+com\example\notesservice\model\Note.class
+com\example\notesservice\service\NoteServiceImpl.class
+com\example\notesservice\service\NoteService.class
+com\example\notesservice\controller\NoteController.class
+com\example\notesservice\exception\NotesException.class
